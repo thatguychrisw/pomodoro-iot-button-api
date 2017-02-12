@@ -2,5 +2,5 @@
 
 ### Goals
 
-[ ] Publish an api that can receive button events and spit out the request.
+- [ ] Publish an api that can receive button events and spit out the request.
 
