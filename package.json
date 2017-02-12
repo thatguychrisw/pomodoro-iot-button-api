@@ -1,0 +1,25 @@
+{
+  "name": "pomodoro-iot-button",
+  "version": "1.0.0",
+  "description": "An IoT Pomodoro Button Using Particle.IO Internet Button",
+  "main": "app.js",
+  "scripts": {
+    "test": "nope"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatguychrisw/pomodoro-iot-button.git"
+  },
+  "keywords": [
+    "particle"
+  ],
+  "author": "Christopher Willard <thatguychrisw@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thatguychrisw/pomodoro-iot-button/issues"
+  },
+  "homepage": "https://github.com/thatguychrisw/pomodoro-iot-button#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
