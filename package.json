@@ -4,7 +4,8 @@
   "description": "An IoT Pomodoro Button Using Particle.IO Internet Button",
   "main": "app.js",
   "scripts": {
-    "test": "nope"
+    "test": "nope",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
